@@ -1,0 +1,62 @@
+{
+    "status": {
+        "error": false,
+        "code": 200,
+        "type": "success",
+        "message": "Success"
+    },
+    "data": {
+        "startandend": {
+            "time": {
+                "start_time": "2014-06-01T12:00:00.000Z",
+                "end_time": "2014-06-01T12:00:00.000Z"
+            }
+        },
+        "_id": "6315a8607a05e9d1e12bdc38",
+        "event_name": "Botanical nsnessfdsudlll Drawing",
+        "event_title": "Botanical Drawing with Sanath Herath",
+        "address": [
+            {
+                "address_line": "Museum of Modern and Contemporary Art",
+                "address_country": "Sri Lanka",
+                "street": "89 Colombo - Galle Main Road",
+                "state": "Colombo, WP 00400",
+                "city": "Colombo",
+                "postCode": 100,
+                "_id": "6315a8607a05e9d1e12bdc39"
+            }
+        ],
+        "category_Id": [
+            "63159c3660587dd17e22b214",
+            "63159c4c60587dd17e22b215",
+            "63159c3660587dd17e22b214"
+        ],
+        "tag_id": [
+            "5432",
+            "df432",
+            "42k2",
+            "42k2"
+        ],
+        "country_id": [
+            "5432",
+            "df432",
+            "42k2"
+        ],
+        "description": "dsfgg",
+        "contacts": [
+            {
+                "phone": "0726604078",
+                "email": "sampath@gmail.com",
+                "website": "fdsgrg",
+                "social_media": "dsfggs",
+                "_id": "6315a8607a05e9d1e12bdc3a"
+            }
+        ],
+        "logo": "https://unsplash.com/s/photos/focus",
+        "image": [
+            "https://unsplash.com/s/photos/focus",
+            "https://apod.nasa.gov/apod/ap220208.html"
+        ],
+        "__v": 0
+    }
+}
